@@ -3,15 +3,15 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/AbidRafy/470-project/blob/master/library%20project/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/AbidRafy/470-project/blob/master/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
-![dashboard snap](https://github.com/AbidRafy/470-project/blob/master/library%20project/static/screenshots/adminhomepage.png?raw=true)
+![dashboard snap](https://github.com/AbidRafy/470-project/blob/master/static/screenshots/adminhomepage.png?raw=true)
 ### Available Book
-![invoice snap](https://github.com/AbidRafy/470-project/blob/master/library%20project/static/screenshots/availablebook.png?raw=true)
+![invoice snap](https://github.com/AbidRafy/470-project/blob/master/static/screenshots/availablebook.png?raw=true)
 ### Issue Book
-![doctor snap](https://github.com/AbidRafy/470-project/blob/master/library%20project/static/screenshots/issuebook.png?raw=true)
+![doctor snap](https://github.com/AbidRafy/470-project/blob/master/static/screenshots/issuebook.png?raw=true)
 ### Issued Book
-![doctor snap](https://github.com/AbidRafy/470-project/blob/master/library%20project/static/screenshots/bookissued.png?raw=true)
+![doctor snap](https://github.com/AbidRafy/470-project/blob/master/static/screenshots/bookissued.png?raw=true)
 ---
 ## Functions
 ### Admin
